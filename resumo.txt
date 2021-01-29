@@ -1,0 +1,8 @@
+Precisão na localização do Usuário.
+Para que não ocorra que o entregador leve o produto para o local errado, dando a impressão para o cliente que não foi entregue.
+
+Cadastro e Login funcionando ( API Facebook e cadastro do Site )
+Já que somente com usuário logado, se consegue finalizar uma compra.
+
+Validando o carrinho com acréscimo de frete e valor mínimo para compra
+Pois o cliente vai querer pagar o que viu no site, se vier algo diferente, vai ser um transtorno tanto para o cliente, tanto para Empresa.
