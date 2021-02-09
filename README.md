@@ -7,7 +7,7 @@
    máquina.
   
   
-No Terminal, navegue até a pasta onde o arquivo de recurso está situado e instale o gem Bundler com o seguinte comando:
+No Terminal, navegue até a pasta onde o  feature está situado e instale o gem Bundler com o seguinte comando:
 ```
 gem install bundler
 
