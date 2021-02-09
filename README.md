@@ -1,4 +1,4 @@
-# ZeDelivery
+# ZéDelivery
 ---
 ## Configurando o ambiente para execução de testes:
   - Baixe ou clone todo o projeto.
