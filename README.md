@@ -1,5 +1,6 @@
 # ZeDelivery
-##Configurando o ambiente para execução de testes:
+---
+## Configurando o ambiente para execução de testes:
   - Baixe ou clone todo o projeto.
   - Instalação do Ruby 
      - Instale a versão mais recente do Ruby para a sua
